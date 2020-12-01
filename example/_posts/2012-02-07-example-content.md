@@ -6,7 +6,13 @@ description: >
 sitemap: false
 ---
 ![refimage](/assets/img/blog/Hagiwara_Five.jpg)
-Social play 
+Day 1 of ‘Social Play’
+4th December ‘19
+The workshop consisted of theatre warm ups to shake the body and loosen it up to create images for forum theatre which is a part of the Theatre of the Oppressed.
+Mirroring exercises, engaging with sound and meditation, being conscious of our own body language was the first step.
+Creating images with the body of different roles in society, and themes of conflict was the second.
+
+
 
 > Curabitur blandit tempus porttitor.Dark was a great tv show Im currently on Vikings! Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
