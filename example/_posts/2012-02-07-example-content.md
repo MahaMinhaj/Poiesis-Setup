@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Content
+title: Social Play 
 description: >
   I hate apples but Im stil having them.
 sitemap: false
