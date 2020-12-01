@@ -23,9 +23,14 @@ Creating images with the body of different roles in society, and themes of confl
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Inline HTML elements
+## Day 2
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Day 2 of ‘Social Play’
+5th December ‘19
+The workshop consisted of theatre warm ups to shake the body and loosen it up to create images for forum theatre which is a part of the Theatre of the Oppressed.
+Mirroring exercises, engaging with sound, shifting acting roles from one person to the next and drawing exercises was the first step.
+The second step was creating images with the body and one another on the theme of ‘Everyday issues in Karachi’ and further exploring where the images could evolve into.
+Thank you @thesecondfloor for giving us the space to engage in theatre workshops! We hope this is the start of more to come. .
 
 - **To bold text**, use `**To bold text**`.
 - *To italicize text*, use `*To italicize text*`.
