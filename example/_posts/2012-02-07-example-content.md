@@ -2,11 +2,11 @@
 layout: post
 title: Social Play 
 description: >
-  I hate apples but Im stil having them.
+  A 2 day Theatre and Performance Art workshop on the 4th and 5th of December 2019 at T2F Karachi, Pakistan.
 sitemap: false
 ---
 ![refimage](/assets/img/blog/Hagiwara_Five.jpg)
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Social play 
 
 > Curabitur blandit tempus porttitor.Dark was a great tv show Im currently on Vikings! Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
