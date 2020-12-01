@@ -1,12 +1,23 @@
 ---
 layout: post
-title: Example Content
+title: Social Play 
 description: >
-  I hate apples but Im stil having them.
+  A 2 day Theatre and Performance Art workshop on the 4th and 5th of December 2019 at T2F Karachi, Pakistan.
 sitemap: false
 ---
-![refimage](/assets/img/blog/FB Cover)
+<<<<<<< HEAD
+![refimage](/assets/img/blog/FB Cover.jpg)
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+=======
+![refimage](/assets/img/blog/Hagiwara_Five.jpg)
+Day 1 of ‘Social Play’
+4th December ‘19
+The workshop consisted of theatre warm ups to shake the body and loosen it up to create images for forum theatre which is a part of the Theatre of the Oppressed.
+Mirroring exercises, engaging with sound and meditation, being conscious of our own body language was the first step.
+Creating images with the body of different roles in society, and themes of conflict was the second.
+
+
+>>>>>>> 3b86cf05e18c847ba8b3193158918323393b5754
 
 > Curabitur blandit tempus porttitor.Dark was a great tv show Im currently on Vikings! Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
