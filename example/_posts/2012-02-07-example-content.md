@@ -6,7 +6,7 @@ description: >
 sitemap: false
 ---
 <<<<<<< HEAD
-![refimage](/assets/img/blog/FB Cover.jpg)
+![refimage](/assets/img/blog/FB_Cover.jpg)
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 =======
 ![refimage](/assets/img/blog/Hagiwara_Five.jpg)
