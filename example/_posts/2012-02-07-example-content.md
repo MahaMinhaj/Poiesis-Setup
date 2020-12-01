@@ -5,11 +5,9 @@ description: >
   A 2 day Theatre and Performance Art workshop on the 4th and 5th of December 2019 at T2F Karachi, Pakistan.
 sitemap: false
 ---
-<<<<<<< HEAD
 ![refimage](/assets/img/blog/FB_Cover.jpg)
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-=======
-![refimage](/assets/img/blog/Hagiwara_Five.jpg)
+![refimage] (/assets/img/blog/Hagiwara_Five.jpg)
 Day 1 of ‘Social Play’
 4th December ‘19
 The workshop consisted of theatre warm ups to shake the body and loosen it up to create images for forum theatre which is a part of the Theatre of the Oppressed.
@@ -17,7 +15,6 @@ Mirroring exercises, engaging with sound and meditation, being conscious of our 
 Creating images with the body of different roles in society, and themes of conflict was the second.
 
 
->>>>>>> 3b86cf05e18c847ba8b3193158918323393b5754
 
 > Curabitur blandit tempus porttitor.Dark was a great tv show Im currently on Vikings! Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
@@ -30,7 +27,7 @@ Day 2 of ‘Social Play’
 The workshop consisted of theatre warm ups to shake the body and loosen it up to create images for forum theatre which is a part of the Theatre of the Oppressed.
 Mirroring exercises, engaging with sound, shifting acting roles from one person to the next and drawing exercises was the first step.
 The second step was creating images with the body and one another on the theme of ‘Everyday issues in Karachi’ and further exploring where the images could evolve into.
-Thank you @thesecondfloor for giving us the space to engage in theatre workshops! We hope this is the start of more to come. .
+
 
 - **To bold text**, use `**To bold text**`.
 - *To italicize text*, use `*To italicize text*`.
