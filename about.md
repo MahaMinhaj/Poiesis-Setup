@@ -27,9 +27,9 @@ Hydejack's cover page on a variety of screens.
 {:.figcaption}
 
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+Poiesis.social art is digital space that archives socially engaged art, create academic podcasts & hosts workshops.
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+it
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
